@@ -16,7 +16,7 @@ public class DCNET {
      */
     public static void main(String[] args) {
 
-        System.out.println("Eclipse git connect test!");
+        System.out.println("Eclipse git commit test!");
     }
 
 }
