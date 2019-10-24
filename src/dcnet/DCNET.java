@@ -15,7 +15,7 @@ public class DCNET {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
+    	 System.out.println("Eclipse AAAA");
         System.out.println("Eclipse git commit test!");
     }
 
